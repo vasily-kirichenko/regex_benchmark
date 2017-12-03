@@ -1,0 +1,10 @@
+[package]
+name = "regex_benchmark"
+version = "0.1.0"
+authors = ["Vasily Kirichenko <vaskir@gmail.com>"]
+
+[dependencies]
+regex = "*"
+time = "*"
+itertools = "*"
+error-chain = "*"
